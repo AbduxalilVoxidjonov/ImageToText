@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99498755486",
+    "project_id": "mlandroidproject-6fa40",
+    "storage_bucket": "mlandroidproject-6fa40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99498755486:android:74d6f5b9cad05ee5f5828f",
+        "android_client_info": {
+          "package_name": "com.example.imagetotext"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV2jd-_AxKKjmLg2F9-HpCwW2uRMzaaHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
